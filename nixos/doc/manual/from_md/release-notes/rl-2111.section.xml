@@ -207,6 +207,14 @@
           <link linkend="opt-services.postfixadmin.enable">postfixadmin</link>.
         </para>
       </listitem>
+      <listitem>
+        <para>
+          <link xlink:href="https://wiki.servarr.com/prowlarr">prowlarr</link>,
+          an indexer manager/proxy built on the popular arr .net/reactjs
+          base stack
+          <link linkend="opt-services.prowlarr.enable">services.prowlarr</link>.
+        </para>
+      </listitem>
     </itemizedlist>
   </section>
   <section xml:id="sec-release-21.11-incompatibilities">
