@@ -350,7 +350,6 @@ in
       # shadow = 318; # unused
       hqplayer = 319;
       moonraker = 320;
-      prowlarr = 321;
 
       # When adding a uid, make sure it doesn't match an existing gid. And don't use uids above 399!
 
