@@ -48,6 +48,7 @@ in stdenv.mkDerivation rec {
     description = "An indexer manager/proxy built on the popular arr .net/reactjs base stack";
     homepage = "https://wiki.servarr.com/prowlarr";
     license = licenses.gpl3Only;
+    maintainers = with maintainers; [ jdreaver ];
     platforms = [ "x86_64-linux" "aarch64-linux" "x86_64-darwin" ];
   };
 }
